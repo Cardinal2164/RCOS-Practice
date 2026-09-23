@@ -4,7 +4,7 @@
 
 Justin Strandell
 
-!\[My photograph](./Photo.jpg)
+!\[Photograph](Photo.jpg)
 
 2027
 
