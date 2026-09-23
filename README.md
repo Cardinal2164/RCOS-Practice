@@ -4,7 +4,7 @@
 
 Justin Strandell
 
-!\[Photograph](Photo.jpg)
+!\[Photograph](Images/Photo.jpg)
 
 2027
 
