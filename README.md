@@ -4,17 +4,8 @@
 
 Justin Strandell
 
-!\[My photograph](Photo.jpg)
+![My photograph](Photo.jpg)
 
 2027
 
 Programming for LegUP
-
-
-
-**This should be bold.**
-
-
-
-*This should be italic.*
-
