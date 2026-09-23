@@ -1,12 +1,12 @@
-# RCOS-Practice
+\# RCOS-Practice
 
 
 
-Justin Strandell
+\- Justin Strandell
 
-!\[Photograph](Images/Photo.jpg)
+\- !\[My photograph](Photo.jpg)
 
-2027
+\- 2027
 
-Programming for LegUP
+\- Programming for LegUP
 
