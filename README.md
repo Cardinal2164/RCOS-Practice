@@ -1,10 +1,10 @@
-\# RCOS-Practice
+# RCOS-Practice
 
 
 
 Justin Strandell
 
-![My photograph](Photo.jpg)
+![My photograph](Images/Photo.jpg)
 
 2027
 
