@@ -10,3 +10,11 @@
 
 \- Programming for LegUP
 
+
+
+\*\*This should be bold.\*\*
+
+
+
+\*This should be italic.\*
+
